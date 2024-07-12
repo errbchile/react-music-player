@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import { useState, useRef } from "react";
 
 function App() {
   const [currentTime, setCurrentTime] = useState("0:00");
